@@ -99,9 +99,9 @@ ___
 Тестирование 
 ```
 mypipe is created  
-$ echo Eureka! > mypipe  
+$ echo projecto > mypipe  
 mypipe is opened  
-Incomming message (8): Eureka! 
+Incomming message (8): projecto 
   
 read error: Success  
 ```
