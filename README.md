@@ -1,4 +1,4 @@
-# NetworkOS-4semestr
+# PROJECTX
 ## Лекционные материалы
 Оглавление:
 + [Lec2_Lec3](#Lecture23)
